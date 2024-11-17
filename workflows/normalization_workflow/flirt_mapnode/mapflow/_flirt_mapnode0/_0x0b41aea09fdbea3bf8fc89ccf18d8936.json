@@ -1,0 +1,28 @@
+[
+    [
+        "in_file",
+        [
+            "/home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/realigned/5/I238623_Resting_State_fMRI_20110602075636_501.nii.gz",
+            "bfb78d40729af78af40fe4a60e657528"
+        ]
+    ],
+    [
+        "out_file",
+        "/home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/normalized/1/I238623_Resting_State_fMRI_20110602075636_501.nii.gz"
+    ],
+    [
+        "out_matrix_file",
+        "affine.mat"
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ],
+    [
+        "reference",
+        [
+            "/home/adi/Downloads/y/data/standard/MNI152_T1_2mm_brain.nii.gz",
+            "f0fecb3aed563d454d30cf2426fd542d"
+        ]
+    ]
+]

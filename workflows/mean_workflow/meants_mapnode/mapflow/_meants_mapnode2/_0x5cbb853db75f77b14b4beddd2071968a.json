@@ -1,0 +1,21 @@
+[
+    [
+        "in_file",
+        [
+            "/home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/realigned/4/I417987_Resting_State_fMRI_20140227155425_501.nii.gz",
+            "cce75cfd8762967b50a7071f0eb93bac"
+        ]
+    ],
+    [
+        "order",
+        1
+    ],
+    [
+        "out_file",
+        "/home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/mean/3/I417987_Resting_State_fMRI_20140227155425_501.nii.gz"
+    ],
+    [
+        "output_type",
+        "NIFTI_GZ"
+    ]
+]
