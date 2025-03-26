@@ -40,8 +40,7 @@ This project requires **Python 3.8+**, as well as **FSL** for neuroimaging prepr
 ### Install Dependencies
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository>
+   git clone https://github.com/AdiGodlner/ANDI-.git
    ```
 2. Install Python dependencies:
    ```bash
