@@ -1,1 +1,0 @@
-fslmeants -i /home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/realigned/1/I423209_Extended_Resting_State_fMRI_20140501070825_501.nii.gz --order=1 -o /home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/mean/6/I423209_Extended_Resting_State_fMRI_20140501070825_501.nii.gz

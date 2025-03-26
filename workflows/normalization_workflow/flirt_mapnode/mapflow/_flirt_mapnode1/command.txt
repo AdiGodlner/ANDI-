@@ -1,1 +1,0 @@
-flirt -in /home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/realigned/3/I417936_Extended_Resting_State_fMRI_20140314062732_501.nii.gz -ref /home/adi/Downloads/y/data/standard/MNI152_T1_2mm_brain.nii.gz -out /home/adi/Desktop/keep/code/git/reops/ANDI/ANDI-/DATA/normalized/2/I417936_Extended_Resting_State_fMRI_20140314062732_501.nii.gz -omat affine.mat
